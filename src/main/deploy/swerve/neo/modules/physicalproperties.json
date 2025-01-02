@@ -6,8 +6,7 @@
     },
     "drive": {
       "gearRatio": 6.75,
-      "diameter": 4,
-      "factor": 0.05319763560078716
+      "diameter": 4
     }
   },
   "currentLimit": {
